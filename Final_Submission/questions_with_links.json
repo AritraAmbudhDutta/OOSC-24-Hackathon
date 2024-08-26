@@ -1,0 +1,106 @@
+[
+    {
+        "questions_and_links": [
+            {
+                "question": "What question arises from the provided text?",
+                "relevant_links": [
+                    "https://www.geeksforgeeks.org/python-interview-questions/?ref=outindfooter",
+                    "https://www.geeksforgeeks.org/complete-roadmap-to-learn-dsa-from-scratch/?ref=outindfooter",
+                    "https://www.geeksforgeeks.org/what-is-high-level-design-learn-system-design/?ref=outindfooter",
+                    "https://www.geeksforgeeks.org/what-is-low-level-design-or-lld-learn-system-design/?ref=outindfooter",
+                    "https://www.geeksforgeeks.org/courses/interviewe-101-data-structures-algorithm-system-design/?itm_source=geeksforgeeks&itm_medium=newui_home&itm_campaign=courses"
+                ]
+            },
+            {
+                "question": "What can you ask about this text?",
+                "relevant_links": [
+                    "https://www.geeksforgeeks.org/about/?ref=outindfooter",
+                    "https://www.geeksforgeeks.org/about/contact-us/?ref=outindfooter",
+                    "https://www.geeksforgeeks.org/what-is-high-level-design-learn-system-design/?ref=outindfooter",
+                    "https://www.geeksforgeeks.org/what-is-low-level-design-or-lld-learn-system-design/?ref=outindfooter",
+                    "https://www.geeksforgeeks.org/php-tutorial/?ref=home-articlecards"
+                ]
+            },
+            {
+                "question": "What is the purpose of the free Python tutorial?",
+                "relevant_links": [
+                    "https://www.geeksforgeeks.org/python-programming-language/?ref=outindfooter",
+                    "https://www.geeksforgeeks.org/python-programming-language/",
+                    "https://www.geeksforgeeks.org/python-programming-language/?ref=outindfooter",
+                    "https://www.geeksforgeeks.org/python-programming-language/?ref=home-articlecards",
+                    "https://www.geeksforgeeks.org/videos/category/python/?ref=outindfooter"
+                ]
+            },
+            {
+                "question": "What is the content of the free Python tutorial?",
+                "relevant_links": [
+                    "https://www.geeksforgeeks.org/python-programming-language/?ref=outindfooter",
+                    "https://www.geeksforgeeks.org/python-programming-language/",
+                    "https://www.geeksforgeeks.org/python-programming-language/?ref=outindfooter",
+                    "https://www.geeksforgeeks.org/python-programming-language/?ref=home-articlecards",
+                    "https://www.geeksforgeeks.org/videos/category/python/?ref=outindfooter"
+                ]
+            },
+            {
+                "question": "What is the question based on?",
+                "relevant_links": [
+                    "https://www.geeksforgeeks.org/what-is-high-level-design-learn-system-design/?ref=outindfooter",
+                    "https://www.geeksforgeeks.org/what-is-low-level-design-or-lld-learn-system-design/?ref=outindfooter",
+                    "https://www.geeksforgeeks.org/python-interview-questions/?ref=outindfooter",
+                    "https://www.geeksforgeeks.org/complete-guide-on-complexity-analysis/?ref=home-articlecards",
+                    "https://www.geeksforgeeks.org/c-programming-language/?ref=home-articlecards"
+                ]
+            },
+            {
+                "question": "What question can be derived from this text?",
+                "relevant_links": [
+                    "https://www.geeksforgeeks.org/python-interview-questions/?ref=outindfooter",
+                    "https://www.geeksforgeeks.org/complete-roadmap-to-learn-dsa-from-scratch/?ref=outindfooter",
+                    "https://www.geeksforgeeks.org/what-is-high-level-design-learn-system-design/?ref=outindfooter",
+                    "https://www.geeksforgeeks.org/what-is-low-level-design-or-lld-learn-system-design/?ref=outindfooter",
+                    "https://www.geeksforgeeks.org/courses/interviewe-101-data-structures-algorithm-system-design/?itm_source=geeksforgeeks&itm_medium=newui_home&itm_campaign=courses"
+                ]
+            },
+            {
+                "question": "What is the main idea of this text?",
+                "relevant_links": [
+                    "https://www.geeksforgeeks.org/what-is-high-level-design-learn-system-design/?ref=outindfooter",
+                    "https://www.geeksforgeeks.org/what-is-low-level-design-or-lld-learn-system-design/?ref=outindfooter",
+                    "https://www.geeksforgeeks.org/fundamentals-of-algorithms/",
+                    "https://www.geeksforgeeks.org/fundamentals-of-algorithms/?ref=outindfooter",
+                    "https://www.geeksforgeeks.org/complete-guide-on-complexity-analysis/?ref=home-articlecards"
+                ]
+            },
+            {
+                "question": "What is the name of the free Python tutorial?",
+                "relevant_links": [
+                    "https://www.geeksforgeeks.org/python-programming-language/?ref=outindfooter",
+                    "https://www.geeksforgeeks.org/python-programming-language/",
+                    "https://www.geeksforgeeks.org/python-programming-language/?ref=outindfooter",
+                    "https://www.geeksforgeeks.org/python-programming-language/?ref=home-articlecards",
+                    "https://www.geeksforgeeks.org/videos/category/python/?ref=outindfooter"
+                ]
+            },
+            {
+                "question": "What is the purpose of this free Python tutorial?",
+                "relevant_links": [
+                    "https://www.geeksforgeeks.org/python-programming-language/?ref=outindfooter",
+                    "https://www.geeksforgeeks.org/python-programming-language/",
+                    "https://www.geeksforgeeks.org/python-programming-language/?ref=outindfooter",
+                    "https://www.geeksforgeeks.org/python-programming-language/?ref=home-articlecards",
+                    "https://www.geeksforgeeks.org/videos/category/python/?ref=outindfooter"
+                ]
+            },
+            {
+                "question": "What is the name of the question that you need to answer?",
+                "relevant_links": [
+                    "https://www.geeksforgeeks.org/what-is-high-level-design-learn-system-design/?ref=outindfooter",
+                    "https://www.geeksforgeeks.org/what-is-low-level-design-or-lld-learn-system-design/?ref=outindfooter",
+                    "https://www.geeksforgeeks.org/python-interview-questions/?ref=outindfooter",
+                    "https://www.geeksforgeeks.org/fundamentals-of-algorithms/",
+                    "https://www.geeksforgeeks.org/fundamentals-of-algorithms/?ref=outindfooter"
+                ]
+            }
+        ]
+    }
+]
