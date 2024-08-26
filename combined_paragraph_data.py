@@ -57,19 +57,18 @@ def main(main_url):
         paragraphs = extract_paragraphs(link)
         all_paragraphs.extend(paragraphs)
     
-    combined_paragraph = ' '.join(all_paragraphs)
+    # Combine paragraphs into a single line string
+    combined_paragraph = ' '.join(all_paragraphs).replace('\n', ' ').replace('\r', ' ')
     
-    data = {
-        'combined_paragraph': combined_paragraph
-    }
+    # Save the combined paragraph as a single line string in the file
+    file_path = '/content/extracted_data.json'  # Path for Google Colab
+    with open(file_path, 'w') as file:
+        file.write(combined_paragraph)
     
-    with open('extracted_data.json', 'w') as file:
-        json.dump(data, file, indent=4)
-    
-    print(f"Extracted paragraphs combined into one and saved to extracted_data.json")
+    print(f"Extracted paragraphs combined into one line and saved to {file_path}")
 
 # Main URL to scrape
-main_url = input("Please input the URL : ")
+main_url = input("Please input the URL: ")
 
 # Run the main function
 main(main_url)
